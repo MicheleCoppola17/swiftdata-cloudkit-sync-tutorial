@@ -6,8 +6,8 @@ Sample project for the Medium article:
 
 This project demonstrates:
 
-• SwiftData models
-• Automatic CloudKit synchronization
+- SwiftData models
+- Automatic CloudKit synchronization
 
 ## Requirements
 
@@ -22,5 +22,5 @@ This project demonstrates:
 3. Enable your Apple Developer Team
 4. Run the app on a physical device
 
-📖 Read the full tutorial on Medium: 
+📖 Read the full tutorial on Medium:
 https://medium.com/@michele.coppola17/how-to-enable-icloud-syncing-in-your-app-6c1b11dca719
