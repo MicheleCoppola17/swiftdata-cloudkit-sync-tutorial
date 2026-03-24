@@ -1,0 +1,112 @@
+# Xcode
+#
+# gitignore contributors: better-gitignore-bot, x791, d-ronnqvist
+
+## Build results
+build/
+DerivedData/
+
+## Project settings
+xcuserdata/
+
+## Schemes
+##
+## Check in your schemes to share them with your team.
+## Otherwise, keep them in the xcuserdata folder.
+# [X]xcschemes/
+
+## VCS config
+xccheckout/
+xcscmblueprint/
+
+## Other
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+*.moved-aside
+*.xcuserstate
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift packages.
+# .build/
+
+# Package.resolved
+#
+# Add this line if you want to avoid checking in Package.resolved.
+# Package.resolved
+
+# .swiftpm
+.swiftpm/
+
+# macOS
+#
+# gitignore contributors: d-ronnqvist
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# if you must do so, uncomment the next line.
+# Pods/
+#
+# Add this line if you want to avoid checking in Podfile.lock.
+# Podfile.lock
+
+# Carthage
+#
+# Add this line if you want to avoid checking in the Carthage directory.
+# Carthage/Build/
+
+# fastlane
+#
+# It is recommended to not store the packages in the fastlane directory.
+# Instead, use the `package` action to store them in a separate directory.
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code coverage
+*.framework
+*.xctest
+*.app
+*.dSYM
+
+# Backups
+*.bak
+*.swp
+*~
